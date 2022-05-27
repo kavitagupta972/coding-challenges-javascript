@@ -10,3 +10,5 @@ jsfiddle link - https://bit.ly/3lDXqjG
 Day3 - max character - finds the character which is maximum time repeated in string
 jsfiddle link - https://bit.ly/39UOFyS
 
+Day4 - fizzbuzz problem
+jsfiddle link - https://bit.ly/3z0VOID
