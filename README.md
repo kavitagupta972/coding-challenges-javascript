@@ -12,3 +12,6 @@ jsfiddle link - https://bit.ly/39UOFyS
 
 Day4 - fizzbuzz problem
 jsfiddle link - https://bit.ly/3z0VOID
+
+Day5 - array chunk
+jsfiddle link - https://bit.ly/3LS8AM8
