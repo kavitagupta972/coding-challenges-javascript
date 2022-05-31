@@ -15,3 +15,6 @@ jsfiddle link - https://bit.ly/3z0VOID
 
 Day5 - array chunk
 jsfiddle link - https://bit.ly/3LS8AM8
+
+Day6 - Anagram
+jsfiddle link - https://bit.ly/3N3f7VR
