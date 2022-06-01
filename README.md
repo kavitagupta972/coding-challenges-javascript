@@ -18,3 +18,6 @@ jsfiddle link - https://bit.ly/3LS8AM8
 
 Day6 - Anagram
 jsfiddle link - https://bit.ly/3N3f7VR
+
+Day7 - steps printing
+jsfiddle link - https://bit.ly/3t60glB
