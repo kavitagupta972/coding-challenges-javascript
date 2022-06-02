@@ -21,3 +21,6 @@ jsfiddle link - https://bit.ly/3N3f7VR
 
 Day7 - steps printing
 jsfiddle link - https://bit.ly/3t60glB
+
+Day8 - reverse integer
+jsfiddle link - https://bit.ly/3x93bfM
