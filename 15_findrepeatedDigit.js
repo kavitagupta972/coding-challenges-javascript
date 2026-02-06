@@ -7,4 +7,5 @@
 // Output: 3
 // Input: nums = [3,3,3,3,3]
 // Output: 3
+// https://www.geeksforgeeks.org/dsa/find-repetitive-element-1-n-1/
  
