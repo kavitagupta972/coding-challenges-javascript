@@ -9,12 +9,12 @@
 // Output: 3
 // https://www.geeksforgeeks.org/dsa/find-repetitive-element-1-n-1/
 console.log("starting programme");
-var iterations = 0;
+// var iterations = 0;
  function findRepeatedDigit (arr) {
-    iterations = 0;
+    // iterations = 0;
     var items = new Set();
     for(let num of arr){
-        iterations++;
+        // iterations++;
         if(items.has(num)) {
             return num;
         }
@@ -24,9 +24,9 @@ var iterations = 0;
  }
 
  console.log(findRepeatedDigit([1,3,4,2,2]));
- console.log('number of iterations ', iterations);
+//  console.log('number of iterations ', iterations);
  console.log(findRepeatedDigit([3,1,6,4,6]));
- console.log('number of iterations ', iterations);
+//  console.log('number of iterations ', iterations);
  console.log(findRepeatedDigit([3,3,3,3,3]));
 
- console.log('number of iterations ', iterations);
+//  console.log('number of iterations ', iterations);
