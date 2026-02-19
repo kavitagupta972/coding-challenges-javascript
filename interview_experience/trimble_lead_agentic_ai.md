@@ -1,8 +1,3 @@
-Here is the cleaned **Markdown (.md) version with all real names and company names removed**:
-
----
-
-```md
 # Interview Recording – Round 2  
 **Role:** Lead Agent AI Engineer (P3)  
 
