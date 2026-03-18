@@ -1,4 +1,4 @@
-# 🚀 7-Day Backend Interview Improvement Plan (Tarun Nagpal)
+# 🚀 7-Day Backend Interview Improvement Plan ()
 
 This is a **targeted plan** to fix:
 - Python fundamentals
