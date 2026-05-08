@@ -15,7 +15,7 @@ const findDays = (movies)=>{
     movies.sort((a,b) => a - b);
     var days = 0, j = 0, k = movies.length-1;
    while(j<=k) {
-        if(movies[j]+movies[k] <= 300){
+        if(movies[j]+movies[k] <= 3){
             j++;
             k--;
         } else {
